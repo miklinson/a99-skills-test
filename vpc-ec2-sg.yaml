@@ -1,7 +1,6 @@
-
 AWSTemplateFormatVersion: 2010-09-09
-Description:  This template deploys an EC2 instance that will provisions a web server that prints a simple html index
-page that displays the EC2 instance ID
+Description: This template deploys an EC2 instance that will provisions a web server that prints a simple html index
+  page that displays the EC2 instance ID.
 Parameters:
   EnvironmentName:
     Description: An environment name that is prefixed to resource names
