@@ -5,7 +5,7 @@ A simple script that provisions a web server (Amazon Linux 2) on AWS that prints
 - BASH
 - GIT
 - AWS Account (Assuming that the user has access to AWS CloudFormation)
-- AWS CLI
+- AWS CLI (AWS CLI configured)
 - jq for BASH. [Click Here](https://stedolan.github.io/jq/download/) to go to installation/download page
 
 jq is a tool that lets you read, filter, and write JSON in bash
