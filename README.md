@@ -13,7 +13,7 @@ jq is a tool that lets you read, filter, and write JSON in bash
 ### Steps:
 1) Clone the repo:
 ```
-git clone https://gitlab.com/miklinson/a99-skills-test.git [directory-name]
+git clone https://github.com/miklinson/a99-skills-test.git [directory-name]
 ```
 2) Run the script:
 ```
