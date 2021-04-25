@@ -4,7 +4,7 @@ A simple script that provisions a web server (Amazon Linux 2) on AWS that prints
 ### Requirements
 - BASH
 - GIT
-- AWS Account
+- AWS Account (Assuming that the user has access to AWS CloudFormation)
 - AWS CLI
 - jq for BASH. [Click Here](https://stedolan.github.io/jq/download/) to go to installation/download page
 
