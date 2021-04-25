@@ -1,5 +1,5 @@
 ## Skills Test
-A simple script that provisions a web server on AWS that prints a simple html index page that displays the EC2 instance ID of the instance.
+A simple script that provisions a web server (Amazon Linux 2) on AWS that prints a simple html index page that displays the EC2 instance ID of the instance. CloudFormation Template is used to create a VPC, Internet GW, Pubic Subnet, Public Route Table and an EC2 Instance.  
 
 ### Requirements
 - BASH
